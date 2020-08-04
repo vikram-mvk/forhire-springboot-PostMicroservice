@@ -96,6 +96,8 @@
 	</dependencyManagement>
 
 	<build>
+		<finalName>Post-Microservice</finalName>
+
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
